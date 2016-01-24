@@ -1,15 +1,19 @@
 {
-    "name": "fut-react",
-    "version" : "1.0.0",
-    "description": "futi futi futi",
-    "repository": {
-        "type": "git",
-        "url": "http://github.com/jpobley/fut-react.git"
-    },
-    "license": "MIT",
-    "author": {
-        "name": "JP Obley",
-        "email": "jpobley@gmail.com",
-        "url": "github.com/jpobley"
-    }
+  "name": "fut-react",
+  "version": "1.0.0",
+  "description": "futi futi futi",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jpobley/fut-react.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "JP Obley",
+    "email": "jpobley@gmail.com",
+    "url": "github.com/jpobley"
+  },
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  }
 }
