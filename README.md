@@ -1,2 +1,2 @@
-# fut-ng
-Angular Fut
+# fut-react
+React Fut
