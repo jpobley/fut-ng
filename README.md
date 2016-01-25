@@ -1,2 +1,2 @@
-# fut-react
-React Fut
+# fut-ui
+UI for Fut app
